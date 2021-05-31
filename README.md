@@ -17,3 +17,6 @@ I’m a public worker and a data science student.
 ### Languages and Tools
 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+-
+### Top Languages on my GitHub
+[![Top Languages on my GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=rahcosta&layout=compacttrue&theme=radical)](https://github.com/rahcosta/rahcosta/edit/main/README.md)
