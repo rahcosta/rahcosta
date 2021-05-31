@@ -2,10 +2,10 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rahcosta)](https://github.com/rahcosta)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raissacostaalencar/)](https://www.linkedin.com/in/raissacostaalencar/)
--
+
 ### About me
 I’m a public worker and a data science student.
--
+
 ### What am I learning right now?
 
 1. Statistics :chart_with_upwards_trend:
