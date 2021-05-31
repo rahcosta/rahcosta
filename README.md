@@ -5,7 +5,7 @@
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/raissacosta)](https://www.kaggle.com/raissacosta)
 
 ### About me
-I’m a public worker and a data science student.
+I’m a public servant and a data science student.
 
 ### What am I learning right now?
 
