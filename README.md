@@ -12,7 +12,6 @@ I’m a public servant and a data science student.
 1. Statistics :chart_with_upwards_trend:
 2. Python :snake:
 3. Data Science course at Udemy :woman_technologist:
-4. AI Huawei course to get the Huawei HCIA Certification :robot:
 
 ---
 ### Languages and Tools
