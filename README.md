@@ -9,9 +9,10 @@ I’m a public servant and a data science student.
 
 ### What am I learning right now?
 
-1. Statistics :chart_with_upwards_trend:
-2. Python :snake:
-3. Data Science course at Udemy :woman_technologist:
+1. Data Science degree at Uninter :woman_student:	
+2. Data Science course at Udemy :woman_technologist:
+3. Bootcamp Cognizant Cloud Data Engineer 2 - Digital Innovation One :abacus:	
+4. Cybersecurity Essentials - Cisco :space_invader:	
 
 ---
 ### Languages and Tools
