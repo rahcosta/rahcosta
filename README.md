@@ -11,7 +11,7 @@ I’m a public servant and a data science student.
 
 1. Data Science degree at Uninter :woman_student:	
 2. Data Science course at Udemy :woman_technologist:
-3. Bootcamp Cognizant Cloud Data Engineer 2 - Digital Innovation One :abacus:	
+3. [Bootcamp Cognizant Cloud Data Engineer 2 - Digital Innovation One](https://github.com/rahcosta/Bootcamp-Cognizant-Cloud-Data-Engineer-2.git) :abacus:	
 4. Cybersecurity Essentials - Cisco :space_invader:	
 
 ---
