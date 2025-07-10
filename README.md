@@ -9,7 +9,7 @@ Sou servidora pública e gosto das áreas de dados e aprendizado de máquina.
 
 ### Formação :woman_student:
 
-1. Graduanda em Tecnologia em Ciência de Dados pela Uninter 
+1. Graduada em Tecnologia em Ciência de Dados pela Uninter 
 2. Licencianda em Computação pelo IF Sertão-PE, Campus Petrolina
 
 ---
