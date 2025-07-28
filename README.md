@@ -1,8 +1,6 @@
 # Raissa :blush:
 
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/rahcosta)](https://github.com/rahcosta)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/raissacostaalencar/)](https://www.linkedin.com/in/raissacostaalencar/)
-[![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/raissacosta)](https://www.kaggle.com/raissacosta)
 
 ### Sobre Mim
 Sou servidora pública e gosto das áreas de dados e aprendizado de máquina.
