@@ -32,11 +32,6 @@
 *(Espaço reservado para compartilhar meus materiais, práticas pedagógicas e projetos relacionados ao ensino de Computação!)*
 
 
-### 📊 Estatísticas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahcosta&size_weight=0.5&count_weight=0.5)
-
-
 ### 📫 Como me encontrar
 
 <p align="left">
