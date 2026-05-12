@@ -34,10 +34,7 @@
 
 ### 📊 Estatísticas
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahcosta&show_icons=true&theme=transparent&hide_border=true" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahcosta&layout=compact&theme=transparent&hide_border=true" alt="Top Linguagens" height="150"/>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahcosta&size_weight=0.5&count_weight=0.5)
 
 
 ### 📫 Como me encontrar
